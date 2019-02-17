@@ -27,15 +27,15 @@ interests = [
 ]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "Msc in Molecular Biotechnology/Bioinformatics"
-  institution = "Heidelberg University"
-  year = 2018
-
-[[education.courses]]
-  course = "BSc in Biosciences"
-  institution = "Heidelberg University"
-  year = 2016
+# [[education.courses]]
+#   course = "Msc in Molecular Biotechnology/Bioinformatics"
+#   institution = "Heidelberg University"
+#   year = 2018
+#
+# [[education.courses]]
+#   course = "BSc in Biosciences"
+#   institution = "Heidelberg University"
+#   year = 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -71,4 +71,6 @@ interests = [
 
 +++
 
-Hi, I'm Jonas. I am a PhD candidate at the Department of Biosystems Science and Engineering at ETH Zürich [bsse.ethz.ch] in the LAb of Barbara Treutlein [treutleinlab.org].
+I am a PhD candidate at the [Department of Biosystems Science and Engineering](http://www.bsse.ethz.ch) at ETH Zürich in the [Lab of Barbara Treutlein](http://www.treutleinlab.org).
+
+I like brains.
