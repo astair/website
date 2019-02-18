@@ -1,0 +1,1 @@
+.navbar-light .navbar-brand{font-size:1.2em;font-weight:400}.nav-link{letter-spacing:.1em}.nav-link.active{text-decoration:line-through}.nav-link:hover:not(.active){text-decoration:line-through;color:inherit!important}
